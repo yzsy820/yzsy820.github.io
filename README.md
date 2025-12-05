@@ -1,41 +1,49 @@
-<!DOCTYPE html>
+<!DOCTYPE html>   <！DOCTYPE html   超文本标记语言 >   <！DOCTYPE html   超文本标记语言   超文本标记语言 >   <！DOCTYPE html   超文本标记语言   超文本标记语言 >   <！DOCTYPE html   超文本标记语言   超文本标记语言 >
 <html  >
-<head>
+<head>   < >负责人
   <!-- Site made with Mobirise Website Builder v5.9.24, https://mobirise.com -->
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v5.9.24, mobirise.com">
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:image:src" content="https://r.mobirisesite.com/1273020/assets/images/index-meta.jpg">
-  <meta property="og:image" content="https://r.mobirisesite.com/1273020/assets/images/index-meta.jpg">
-  <meta name="twitter:title" content="鄞州实验中学820班网站">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="https://r.mobirisesite.com/1273020/assets/images/80.png-96x91.png?v=1VrBly" type="image/x-icon">
-  <meta name="description" content="鄞州实验中学820班网站，一个团结，奋斗，优秀的班级。我们每个人都有属于自己的一片星空，夜幕是我们的底衬，明月是我们的挚友。偶尔，我们会有一道道耀眼的流星划过夜空，那是属于我们的辉煌。我们，会汇聚在这夜幕，每一颗星都发出熠熠的光辉。我们在不断努力，更在不断创造。这就是我们，鄞州实验中学820班！">
+  <meta charset   字符集="UTF-8"   “utf - 8”>
+  <meta http-equiv="X-UA-Compatible"   “X-UA-Compatible” content   内容="IE=edge">
+  <meta name   名字="generator"   “发电机” content   内容="Mobirise v5.9.24, mobirise.com">
+  <meta name   名字="twitter:card"   “twitter:卡” content   内容="summary_large_image"   “大图摘要”/>
+  <meta name   名字="twitter:image:src"   “twitter:形象:src   内容 " content="https://r.mobirisesite.com/1273020/assets/images/index-meta.jpg"> 
+
+（这段代码是用于设置 Twitter 卡片的图片源，内容为图片的链接地址。）
+  <meta property   财产="og:image" content="https://r.mobirisesite.com/1273020/assets/images/index-meta.jpg"> 
+
+（此句为 HTML 代码，用于设置网页的 Open Graph 图像，即在社交平台分享时显示的图片。由于其内容为图片链接，没有实际的文字描述，
+  <meta name   名字="twitter:title" content="鄞州实验中学820班网站">
+  <meta name   名字="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon"   “快捷方式图标”   “快捷方式图标” href="https://r.mobirisesite.com/1273020/assets/images/80.png-96x91.png?v=1VrBly" type   类型   类型="image/x-icon"   “图像/ x图标”   “图像/ x图标”>
+  <meta name   名字   名字="description"   “描述”   “描述” content   内容   内容="鄞州实验中学820班网站，一个团结，奋斗，优秀的班级。我们每个人都有属于自己的一片星空，夜幕是我们的底衬，明月是我们的挚友。偶尔，我们会有一道道耀眼的流星划过夜空，那是属于我们的辉煌。我们，会汇聚在这夜幕，每一颗星都发出熠熠的光辉。我们在不断努力，更在不断创造。这就是我们，鄞州实验中学820班！">
   
   
-  <title>鄞州实验中学820班网站</title>
-  <link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/web/assets/mobirise-icons2/mobirise2.css">
-  <link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/web/assets/mobirise-icons/mobirise-icons.css">
-  <link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/bootstrap/css/bootstrap-grid.min.css">
-  <link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/bootstrap/css/bootstrap-reboot.min.css">
-  <link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/web/assets/gdpr-plugin/gdpr-styles.css">
-  <link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/tether/tether.min.css">
-  <link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/dropdown/css/style.css">
-  <link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/socicon/css/styles.css">
-  <link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/theme/css/style.css">
-  <link rel="preload" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"></noscript>
-  <link rel="preload" as="style" href="https://r.mobirisesite.com/1273020/assets/mobirise/css/mbr-additional.css?v=HtAw1d"><link rel="stylesheet" href="https://r.mobirisesite.com/1273020/assets/mobirise/css/mbr-additional.css?v=HtAw1d" type="text/css">
+  <title>鄞州实验中学820班网站</title>Website of Class 820, Yinzhou Experimental Middle SchoolWebsite of Class 820, Yinzhou Experimental Middle School
+  <link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/bootstrap/css/bootstrap.min.css"> 
+
+（这段代码是 HTML 中的链接标签，用于引入外部的 CSS 样式表文件，因此没有实际的中文翻译内容。）
+  <link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/bootstrap/css/bootstrap-grid.min.css"> 
+
+（此行代码为 HTML 语言中的一个链接标签，用于引入外部的 CSS 样式表文件，以实现网页布局和样式的设计。）
+  <link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/web/assets/gdpr-plugin/gdpr-styles.css">
+  <link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/tether/tether.min.css">
+  <link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/dropdown/css/style.css">
+  <link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/socicon/css/styles.css">
+  <link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" as="style" onload="this.onload=null   零;this   这.rel='stylesheet'   “样式表”">
+  <noscript><link rel="stylesheet"   “样式表” href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"   显示=交换”></noscript>
+  <link rel="preload"   “预” as   作为="style"   “风格” href="https://r.mobirisesite.com/1273020/assets/mobirise/css/mbr-additional.css?v=HtAw1d"><link rel="stylesheet"   “样式表” href="https://r.mobirisesite.com/1273020/assets/mobirise/css/mbr-additional.css?v=HtAw1d" type   类型="text/css"   “文本/ css”>
 
   
   
   
 
-<style>
-.navbar-fixed-top {
-  top: auto;
+<style>   < >风格
+.navbar-fixed-top {   ．navbar-fixed-top {
+  top: auto;   上图:汽车;
 }
 #mobirisePromo.container-banner {
   height: 14rem;
@@ -201,7 +209,7 @@
         <div class="row justify-content-md-center">
             <div class="mbr-white col-md-10">
                 <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">鄞州实验中学820班网站</h1>
-                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-2"></h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-2"></h3>   最小高度:14眼动;
                 <p class="mbr-text pb-3 mbr-fonts-style display-5">往下浏览，以获得更多动态~</p>
                 
             </div>
@@ -286,7 +294,7 @@
             </div>
         </div>
     </div>
-</section>
+</section>   < / >节
 
 <section class="image3 cid-uGi2BMgxmJ" id="image03-1o">
   
@@ -295,7 +303,7 @@
   
 
   <div class="container">
-    <div class="row justify-content-center">
+    <div class   < >风格   < >风格   < >风格   < >风格   < >风格="row justify-content-center">
       <div class="col-12 col-lg-9">
         <h4 class="mbr-description mbr-fonts-style mb-3 align-center display-2"><strong>820班课程表</strong></h4>
         
@@ -305,7 +313,7 @@
       </div>
     </div>
   </div>
-</section>
+</section>   < / >节
 
 <section class="countdown1 cid-uGnxId0BdF" id="countdown1-1u">
     
