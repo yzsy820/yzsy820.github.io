@@ -1,9 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://yzsy820.mobirisesite.com/sitemap.xml
-
-
-
-
-
-
